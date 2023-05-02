@@ -10,13 +10,13 @@ inquirer
   .prompt([
     {
       type: 'input',
-      name: 'title',
+      name: 'Title',
       message: 'What is the title of the project?',
     },
     {
       type: 'input',
-      name: 'description',
-      message: 'what is the description of the project?',
+      name: 'Description',
+      message: 'What is the description of the project?',
     },
     {
       type: 'input',
@@ -31,27 +31,37 @@ inquirer
     {
       type: 'input',
       name: 'Usage',
-      message: 'how do you use this project',
+      message: 'How do you use this project?',
     },
     {
         type: 'input',
         name: 'License',
-        message: ' what License was used?',
+        message: ' What License was used?',
       },
       {
         type: 'input',
         name: 'Contributing',
-        message: 'who or what helped Contribute to this project?',
+        message: 'Who or what helped Contribute to this project?',
       },
       {
         type: 'input',
         name: 'Tests',
-        message: 'what test did you do?',
+        message: 'What test did you do?',
       },
       {
         type: 'input',
         name: 'Questions',
-        message: 'what questions do you have about the project?',
+        message: 'What is your github username?',
+      },
+      {
+        type: 'input',
+        name: 'Questions',
+        message: 'Add link to your github profile.',
+      },
+      {
+        type: 'input',
+        name: 'Questions',
+        message: 'What is your email adderess?',
       },
   ])
   .then((answers) => {
