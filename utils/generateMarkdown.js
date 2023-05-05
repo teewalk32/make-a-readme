@@ -19,6 +19,23 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
+   Description
+  
+   Installation
+
+   Usage
+
+   License
+
+   Contributing
+
+   Username
+
+   Profile
+
+   Email
+
+
   ## Installation
   ${data.Installation}
 
@@ -32,8 +49,14 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.Contributing}
 
-  ## Questions
-  ${data.Questions}
+  ## Username
+  ${data.Username}
+
+  ## Profile
+  ${data.Profile}
+
+  ## Email
+  ${data.Email}
 `;
 }
 

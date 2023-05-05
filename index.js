@@ -46,17 +46,17 @@ inquirer
       },
       {
         type: 'input',
-        name: 'Questions',
+        name: 'Username',
         message: 'What is your github username?',
       },
       {
         type: 'input',
-        name: 'Questions',
+        name: 'Profile',
         message: 'Add link to your github profile.',
       },
       {
         type: 'input',
-        name: 'Questions',
+        name: 'Email',
         message: 'What is your email adderess?',
       },
   ])
