@@ -1,0 +1,45 @@
+# make a readme ![alt](https://img.shields.io/badge/License-MIT License-blue)
+
+  ## Description 
+  make a readme by using inputs to auto generate a file.
+
+  ## Table of Contents
+
+   Description
+  
+   Installation
+
+   Usage
+
+   License
+
+   Contributing
+
+   Username
+
+   Profile
+
+   Email
+
+
+  ## Installation
+  node modules. package.json.
+
+  ## Usage
+
+  answer questions that are prompted to you.
+
+  ## License
+  MIT License
+
+  ## Contributing
+  N/A
+
+  ## Username
+  Teewalk32
+
+  ## Profile
+  https://github.com/teewalk32?tab=repositories
+
+  ## Email
+  teewalk4321@gmail.com

@@ -35,6 +35,10 @@ function generateMarkdown(data) {
 
    Email
 
+   video of project 
+
+   https://drive.google.com/file/d/1Y4C9yipCSEOFQLxKJXVDTt_L6Jqzytib/view
+
 
   ## Installation
   ${data.Installation}
